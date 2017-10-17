@@ -1,2 +1,2 @@
 # hello-world
-Sample
+Yo! This is a sample of something excellent.
